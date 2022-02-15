@@ -15,6 +15,8 @@
 
 ### About team task management
 В якості таск менеджера і засобу для контролю версій буде використовуватися GitHub.
+![image](https://user-images.githubusercontent.com/65562829/154111027-1373e213-3f64-4dd2-999b-891f77554517.png)
+
 
 ### Chosen games analysis
 
