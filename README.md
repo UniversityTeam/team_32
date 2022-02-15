@@ -1,2 +1,1 @@
-# team_32
-Repository for gamedev
+# Репозиторій команди №32
